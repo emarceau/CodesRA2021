@@ -2,7 +2,7 @@
 # 
 # Chapitre : Mesures, Indices, Ordres stochastiques
 #
-# Exercice no5
+# Exercice no6
 #
 # Loi de M : Poisson(lambda)
 # Loi de M' : Poisson(lambdaPrime)
